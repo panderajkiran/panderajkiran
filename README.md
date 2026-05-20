@@ -45,10 +45,12 @@
 
 ---
 
+---
+
 ## 🎭 The Dev Corner
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
 </div>
 
 <br />
@@ -60,9 +62,31 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQCK9S/giphy.gif" width="100%" />
       <p><i>Actual footage of me debugging at 2 AM</i></p>
     </td>
+    <td align="left" width="50%">
+       <h3>📈 My "Scientific" Stats</h3>
+       <p>☕ <b>Coffee Consumption:</b> <code>[██████████] 100%</code></p>
+       <p>🐛 <b>Bugs created:</b> <code>[██████░░░░] ∞</code></p>
+       <p>😴 <b>Sleep Schedule:</b> <code>[░░░░░░░░░░] 404 Not Found</code></p>
+       <hr>
+       <h4>⚠️ Reality Check:</h4>
+       <ul>
+         <li>"It worked in my head."</li>
+         <li>"I don't need to comment this, it's obvious."</li>
+         <li><i>*Deletes one line of code*</i> -> 200 errors.</li>
+       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <h3>🛠️ Developer Logic</h3>
+      <blockquote>
+        "A user interface is like a joke. If you have to explain it, it’s not that good."
+      </blockquote>
+      <p><b>Current Status:</b> Searching for that one missing semicolon that's ruining my life. 🔍</p>
+    </td>
     <td align="center" width="50%">
        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100%" />
-       <p><i>"It works on my machine"</i></p>
+       <p><i>Pushing to production on a Friday like...</i></p>
     </td>
   </tr>
 </table>
@@ -73,11 +97,9 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MaySaeed/MaySaeed/master/assets/images/flying_astronaut.gif" width="150px">
+<img src="https://raw.githubusercontent.com/MaySaeed/MaySaeed/master/assets/images/flying_astronaut.gif" width="120px">
 </p>
 
 <div align="center">
-  <p><b>Thanks for stopping by! Keep coding and stay curious. ✨</b></p>
+  <p><b>Thanks for stopping by! Let's build something cool (and hopefully bug-free) together. ✨</b></p>
 </div>
-
----
