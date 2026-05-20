@@ -4,6 +4,7 @@
 ### 💻 Welcome to My GitHub Universe!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Data+Science;Full-Stack+Web+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+
 ---
 
 <table>
@@ -24,7 +25,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%](https://cdn.dribbble.com/userupload/29453603/file/original-8172e268306623facb959ba39dbf2311.gif)" />
     </td>
   </tr>
 </table>
