@@ -69,10 +69,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=panderajkiran&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=compact&theme=tokyonight)
----
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=panderajkiran)---
 
 ## 📫 Contact
 - Email: kiranpande630@gmail.com  
