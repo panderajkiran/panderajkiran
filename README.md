@@ -43,24 +43,41 @@
 
 ---
 
-## 📊 GitHub Dashboard
+---
+
+## 🎭 The Dev Corner
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panderajkiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panderajkiran&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panderajkiran&theme=tokyonight&hide_border=true&area=true&color=36BCF7" width="97%" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQCK9S/giphy.gif" width="100%" />
+      <p><i>Actual footage of me debugging at 2 AM</i></p>
+    </td>
+    <td align="center" width="50%">
+       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+       <p><i>"It works on my machine"</i></p>
+    </td>
+  </tr>
+</table>
 </div>
 
-<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MaySaeed/MaySaeed/master/assets/images/flying_astronaut.gif" width="150px">
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panderajkiran&theme=tokyonight" width="48%" />
+  <p><b>Thanks for stopping by! Keep coding and stay curious. ✨</b></p>
 </div>
 
 ---
