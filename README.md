@@ -1,81 +1,59 @@
+
 <div align="center">
-
-# 💫 Hey Everyone, I'm Pande Raj Kiran
-### 💻 Welcome to My GitHub Universe!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Data+Science;Full-Stack+Web+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
-
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:36BCF7,100:000000&height=200&section=header&text=Pande%20Raj%20Kiran&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
 <table>
   <tr>
     <td width="60%">
+      <h2>🌱 About Me</h2>
       <ul>
-        <li>🚀 Building high-impact web apps every day</li>
-        <li>📖 Focused on learning DSA and System Design</li>
-        <li>🛠️ Enjoy working on a variety of projects</li>
-        <li>🤝 Open to collaboration on Open Source</li>
-        <li>📍 Based in Hyderabad, India</li>
+        <li>🔭 I’m currently working on <b>Full-Stack Projects</b></li>
+        <li>🌱 I’m focusing on <b>Java & Leetcode DSA</b></li>
+        <li>💬 Ask me about <b>React, Node.js, and Python</b></li>
+        <li>📫 How to reach me: <a href="mailto:kiranpande630@gmail.com">kiranpande630@gmail.com</a></li>
+        <li>⚡ Fun fact: <b>I build smart energy solutions!</b></li>
       </ul>
-      <img src="https://komarev.com/ghpvc/?username=panderajkiran&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
-      <br><br>
-      <a href="mailto:kiranpande630@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/panderajkiran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://github.com/panderajkiran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br>
+      <p align="left">
+        <a href="https://linkedin.com/in/panderajkiran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+        <a href="https://github.com/panderajkiran"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+      </p>
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=donut-vertical&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Dashboard Statistics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=panderajkiran&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=panderajkiran&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panderajkiran&theme=tokyonight" />
+### 💻 Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,mysql,git,postman,canva,github" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack & Tools
-
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=panderajkiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panderajkiran&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Smart Energy Consumption** | Management dashboard for monitoring energy. | React, Node.js |
-| **Deadlock Simulator** | OS project simulating deadlock scenarios. | Java, DSA |
-| **Habit Tracker** | Web app for tracking daily routines. | JS, HTML/CSS |
-
----
-
-## 🏆 GitHub Trophies
+### 🏆 Achievements & Activity
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=panderajkiran&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=panderajkiran&theme=tokyonight&no-bg=true&column=4" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=panderajkiran&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panderajkiran&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
