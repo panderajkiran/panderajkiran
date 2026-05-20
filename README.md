@@ -41,14 +41,6 @@
 
 ---
 
----
-
----
-
----
-
----
-
 ## 🎭 The Dev Corner
 
 <div align="center">
@@ -63,6 +55,9 @@
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQCK9S/giphy.gif" width="100%" />
       <p><i>Actual footage of me debugging at 2 AM</i></p>
+      <p><i>A SQL query walks into a bar, walks up to two tables, and asks, "Can I join you?"</i></p>
+      <p><i>There are 10 types of people in the world: those who understand binary, and those who don't.</i></p
+      <p><i>Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25.</i></p>                                                                        <p><i>To understand recursion, you must first understand recursion.</i></p>
     </td>
     <td align="center" width="50%">
        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5emR5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100%" />
