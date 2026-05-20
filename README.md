@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Pande Raj Kiran  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Pande+Raj+Kiran;Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver" alt="Typing SVG" />
+</p> 
 
 🎓 Computer Science & Data Science Student  
 💻 Passionate about Java, Web Development & Problem Solving  
