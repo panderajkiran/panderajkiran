@@ -41,15 +41,26 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=panderajkiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=panderajkiran&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panderajkiran&theme=tokyonight&hide_border=true&area=true" width="48%" />
-</p>
-
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panderajkiran&theme=tokyonight&hide_border=true&area=true&color=36BCF7" width="97%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panderajkiran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panderajkiran&theme=tokyonight" width="48%" />
+</div>
+
+---
