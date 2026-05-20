@@ -3,7 +3,7 @@
 # 💫 Hey Everyone, I'm Pande Raj Kiran
 ### 💻 Welcome to My GitHub Universe!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Data+Science;Full-Stack+Web+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Data+Science;Full-Stack+Web+Developer;Passionate+Problem+Solver](https://dribbble.com/shots/14523057-woman-with-laptop)" alt="Typing SVG" />
 
 ---
 
