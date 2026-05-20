@@ -18,17 +18,21 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Pande+Raj+Kiran;Computer+Science+Student;Aspiring+Software+Engineer;Problem+Solver" alt="Typing SVG" />
 </p> 
 
-🎓 Computer Science & Data Science Student  
-💻 Passionate about Java, Web Development & Problem Solving  
-🚀 Currently learning and building projects step by step  
+<div align="center">
+  
+# 🚀 Pande Raj Kiran
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Data+Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 ---
 
-## 🌟 About Me
-- 🌱 I’m currently learning Java & DSA  
-- 💡 I enjoy building creative web projects  
-- 🎯 Goal: Become a strong Software Engineer  
-- 📍 Hyderabad, India  
+| 👨‍💻 About Me | 🛠 Currently Learning |
+| :--- | :--- |
+| I am a passionate **Computer Science & Data Science** student based in **Hyderabad, India** 📍. I love building creative web projects and engineering efficient solutions to complex problems. | 📚 **Java & DSA** (Deep Dive) <br> 💡 **System Design** <br> 🧪 **Advanced Python** |
+| 🎯 **Goal:** To become a high-impact Software Engineer. | 🏗 **Current Project:** [Smart Energy Consumption](https://github.com/panderajkiran) |
+
+---
+</div>
 
 ---
 <div align="center">
